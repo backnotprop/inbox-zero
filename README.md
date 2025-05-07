@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.getinboxzero.com">
-    <h1 align="center">Inbox Zero - Your AI Email Assistant</h1>
+    <h1 align="center">Inbox Zero Agent - Your AI Email Assistant</h1>
   </a>
   <p align="center">
     Open source email app to reach inbox zero fast.
